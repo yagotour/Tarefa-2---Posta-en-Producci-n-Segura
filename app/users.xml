@@ -1,0 +1,14 @@
+<usuarios>
+    <usuario>
+        <nombre>yago</nombre>
+        <contrasena>bicicleta</contrasena>
+    </usuario>
+    <usuario>
+        <nombre>admin</nombre>
+        <contrasena>123456</contrasena>
+    </usuario>
+    <usuario>
+        <nombre>test</nombre>
+        <contrasena>test</contrasena>
+    </usuario>
+</usuarios>
