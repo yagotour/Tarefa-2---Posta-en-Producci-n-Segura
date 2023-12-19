@@ -45,6 +45,6 @@ Los atacantes, utilizando por ejemplo una de las dos vulnerabilidades anteriores
 # Escenario Práctico
 [Enlace al video de youtube]()
 # Bibliografía
-[Web OWASP](https://owasp.org/www-project-mobile-top-10/2023-risks/m3-insecure-authentication-authorization)
-[Tkinter Wiki](https://wiki.python.org/moin/TkInter)
-[XML Elementtree](https://www.datacamp.com/tutorial/python-xml-elementtree)
+* [Web OWASP](https://owasp.org/www-project-mobile-top-10/2023-risks/m3-insecure-authentication-authorization)
+* [Tkinter Wiki](https://wiki.python.org/moin/TkInter)
+* [XML Elementtree](https://www.datacamp.com/tutorial/python-xml-elementtree)
