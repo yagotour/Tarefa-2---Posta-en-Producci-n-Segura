@@ -43,7 +43,7 @@ Nuestra aplicación, da permisos con privilegios altos a los usuarios, permitien
 Los atacantes, utilizando por ejemplo una de las dos vulnerabilidades anteriores, podría así acceder a más funciones de nuestra aplicación, como la modificación de usuarios, de las cuales un usuario "básico" no debería poder acceder.
 
 # Escenario Práctico
-[Enlace al video de youtube]()
+[Enlace al video de youtube](https://youtu.be/CsbALGCtbSM)
 # Bibliografía
 * [Web OWASP](https://owasp.org/www-project-mobile-top-10/2023-risks/m3-insecure-authentication-authorization)
 * [Tkinter Wiki](https://wiki.python.org/moin/TkInter)
